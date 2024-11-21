@@ -5,3 +5,5 @@ V
 &contracts/cryptographic-dead-drop.clar,5/c/5cb86012e8bc57bc21c3e557688351ba41812623
 U
 %tests/cryptographic-dead-drop.test.ts,e/3/e3a413ed2ff01c19a384e576c500f5a221ee8a89
+>
+.gitattributes,2/4/24139dae656713ba861751fb2c2ac38839349a7a
